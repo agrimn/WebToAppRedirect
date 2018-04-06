@@ -1,2 +1,4 @@
 # WebToAppRedirect
-Sample Demo page that routes to the app
+
+[Click to Test](https://agrimn.github.io/WebToAppRedirect/)
+
